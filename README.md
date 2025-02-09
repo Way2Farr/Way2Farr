@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there! I'm Nathan Gozun</h1>
 <h3 align="left">I'm currently working on:</h3>
-- [Velocigrappler Series](https://github.com/Way2Farr/velociGUN.git)
+- **Velocigrappler Series** (https://github.com/Way2Farr/velociGUN.git)
 <h3 align="left">I'm currently learning:</h3>
 <h3 align="left">I'm currently working on:</h3>
 <p align="left">
