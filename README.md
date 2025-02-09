@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me:
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU2Zmp1a3ZjbG9hbGhhbmlxcWw5dDIxZnpwZ2VoOG03MWw0cnA4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEnttRkxrRYb97FzqR/giphy.gif)" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/nEnttRkxrRYb97FzqR" width="600" height="300"/>
 </div>
 - 🔭 I’m currently working on [Velocigrappler](https://github.com/Way2Farr/velociGUN.git)
 
