@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 # Hi there! I'm Nathan Gozun
 ## About me:
 
-<div align="center">
-  <img src="https://giphy.com/embed/nEnttRkxrRYb97FzqR" width="480" height="394"/>
-</div>
+![Alt text](velocigrappler.gif)
 
 - 🔭 I’m currently working on [Velocigrappler](https://github.com/Way2Farr/velociGUN.git)
 
