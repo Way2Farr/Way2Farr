@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! I'm Nathan Gozun</h1>
+# Hi there! I'm Nathan Gozun
 <h3 align="left">Projects</h3>
 - 🔭 I’m currently working on [Velocigrappler](https://github.com/Way2Farr/velociGUN.git)
 
