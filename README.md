@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Nathan Gozun
 ## About me:
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU2Zmp1a3ZjbG9hbGhhbmlxcWw5dDIxZnpwZ2VoOG03MWw0cnA4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEnttRkxrRYb97FzqR/giphy.gif)" width="600" height="300"/>
+</div>
 - 🔭 I’m currently working on [Velocigrappler](https://github.com/Way2Farr/velociGUN.git)
 
 - 😄 Fun Project that I worked with others on [ParadigmShift](https://github.com/Way2Farr/Paradigm-ShiftGame)
@@ -40,5 +44,5 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </div>
 
-
+## Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=way2farr&show_icons=true&locale=en" alt="way2farr" /></p>
