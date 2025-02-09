@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 # Hi there! I'm Nathan Gozun
 ## About me:
 
-<div align="center">
-  <img src="https://giphy.com/gifs/nEnttRkxrRYb97FzqR" width="600" height="300"/>
-</div>
+<iframe src="https://giphy.com/embed/nEnttRkxrRYb97FzqR" width="480" height="394" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nEnttRkxrRYb97FzqR">via GIPHY</a></p>
+
 - 🔭 I’m currently working on [Velocigrappler](https://github.com/Way2Farr/velociGUN.git)
 
 - 😄 Fun Project that I worked with others on [ParadigmShift](https://github.com/Way2Farr/Paradigm-ShiftGame)
