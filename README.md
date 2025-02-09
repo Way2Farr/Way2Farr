@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! I'm Nathan Gozun
-<h3 align="left">Projects</h3>
+## About me:
 - 🔭 I’m currently working on [Velocigrappler](https://github.com/Way2Farr/velociGUN.git)
 
 - 🌱 I’m currently learning Game and Web Development
