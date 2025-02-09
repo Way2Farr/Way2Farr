@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nathan Gozun</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi there! I'm Nathan Gozun</h1>
+<h3 align="left">I'm currently working on:</h3>
+<h3 align="left">I'm currently learning:</h3>
+<h3 align="left">I'm currently working on:</h3>
 <p align="left">
 </p>
 
